@@ -1,3 +1,3 @@
 # My-code
-This is a repository for wj and wsq to do test！
+This is a repository for wj and wsq to do test!  
 test again!!!
